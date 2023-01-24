@@ -16,18 +16,17 @@ N.B.: Services marked with a :star: next to their names are services we use prod
 
 ## Sections
 
-1. **Time management tools:** apps or methods for tracking and optimizing the use of time, such as calendars, to-do lists, and time-tracking software.
-2. **Research management tools:** apps or methods for organizing and prioritizing research tasks, such as Mendeley, Zotero, and Endnote.
-3. **Data management tools:** software and platforms for storing, cleaning, and analyzing research data, such as Stata, R, and SAS.
-4. **Data Repositories:** Platforms and databases where researchers can access, share, and publish datasets, such as the World Bank Data, IPUMS, and Data.gov
-5. **Communication tools:** apps or platforms for staying in touch with colleagues, collaborators, and co-authors, such as Slack, Zoom, and Microsoft Teams.
-6. **Cloud storage solutions:** platforms for storing and sharing research files, such as Google Drive, Dropbox, and OneDrive.
-7. **Backup solutions:** tools for creating and maintaining backups of important research data, such as Carbonite and Backblaze.
-8. **Literature review tools:** Software and platforms for organizing and managing literature review, such as ResearchRabbit.
-9. **Writing/Documentation tools:** software and platforms for writing and formatting research documents, such as LaTeX, Overleaf.
-10. **Automation tools:** software that can automate repetitive data-related tasks, such as R-script and Excel macros.
-11. **Learning resources:** online courses, tutorials, and books that can help you improve your skills and stay up-to-date with the latest research tools and trends in the field of development economics.
-12. **Stress Management resources:** Techniques and tools to manage stress and improve overall well-being, such as journaling, exercise, and mindfulness practices
+1. [**Time management tools:**](#time-management-tools) apps or methods for tracking and optimizing the use of time, such as calendars, to-do lists, and time-tracking software.
+2. [**Research management tools:**](#research-management-tools) apps or methods for organizing and prioritizing research tasks, such as Mendeley, Zotero, and Endnote.
+3. [**Data management tools:**](#data-management-tools) software and platforms for storing, cleaning, and analyzing research data, such as Stata, R, and SAS.
+4. [**Data Repositories:**](#data-repositories) Platforms and databases where researchers can access, share, and publish datasets, such as the World Bank Data, IPUMS, and Data.gov
+5. [**Communication tools:**](#communication-tools) apps or platforms for staying in touch with colleagues, collaborators, and co-authors, such as Slack, Zoom, and Microsoft Teams.
+6. [**Cloud storage solutions:**](#cloud-storage-solutions) platforms for storing and sharing research files, such as Google Drive, Dropbox, and OneDrive.
+7. [**Backup solutions:**](#backup-solutions) tools for creating and maintaining backups of important research data, such as Carbonite and Backblaze.
+8. [**Automation tools:**](#automation-tools) software that can automate repetitive data-related tasks, such as R-script and Excel macros.
+9. [**Learning resources:**](#learning-resources) online courses, tutorials, and books that can help you improve your skills and stay up-to-date with the latest research tools and trends in the field of development economics.
+10. [**Productivity Tools**](#productivity-tools)
+14. [**Stress Management resources:**](#stress-management-resources) Techniques and tools to manage stress and improve overall well-being, such as journaling, exercise, and mindfulness practices
 
 ---
 
