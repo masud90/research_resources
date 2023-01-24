@@ -16,30 +16,36 @@ N.B.: Services marked with a :star: next to their names are services we use prod
 
 ## Sections
 
-1. [**Time management tools:**](#time-management-tools) apps or methods for tracking and optimizing the use of time, such as calendars, to-do lists, and time-tracking software.
-2. [**Research management tools:**](#research-management-tools) apps or methods for organizing and prioritizing research tasks, such as Mendeley, Zotero, and Endnote.
-3. [**Data management tools:**](#data-management-tools) software and platforms for storing, cleaning, and analyzing research data, such as Stata, R, and SAS.
-4. [**Data Repositories:**](#data-repositories) Platforms and databases where researchers can access, share, and publish datasets, such as the World Bank Data, IPUMS, and Data.gov
-5. [**Communication tools:**](#communication-tools) apps or platforms for staying in touch with colleagues, collaborators, and co-authors, such as Slack, Zoom, and Microsoft Teams.
-6. [**Cloud storage solutions:**](#cloud-storage-solutions) platforms for storing and sharing research files, such as Google Drive, Dropbox, and OneDrive.
-7. [**Backup solutions:**](#backup-solutions) tools for creating and maintaining backups of important research data, such as Carbonite and Backblaze.
-8. [**Automation tools:**](#automation-tools) software that can automate repetitive data-related tasks, such as R-script and Excel macros.
+1. [**Time management tools:**](#time-management-tools) apps or methods for tracking and optimizing the use of time.
+2. [**Research management tools:**](#research-management-tools) apps or methods for organizing and prioritizing research tasks, referencing etc.
+3. [**Data management tools:**](#data-management-tools) software and platforms for storing, cleaning, and analyzing research data.
+4. [**Data repositories:**](#data-repositories) platforms and databases where researchers can access, share, and publish datasets.
+5. [**Communication tools:**](#communication-tools) apps or platforms for staying in touch with colleagues, collaborators, and co-authors.
+6. [**Cloud storage solutions:**](#cloud-storage-solutions) platforms for storing and sharing research files.
+7. [**Backup solutions:**](#backup-solutions) tools for creating and maintaining backups of important research data.
+8. [**Automation tools:**](#automation-tools) software that can automate repetitive data-related tasks.
 9. [**Learning resources:**](#learning-resources) online courses, tutorials, and books that can help you improve your skills and stay up-to-date with the latest research tools and trends in the field of development economics.
-10. [**Productivity Tools**](#productivity-tools)
-14. [**Stress Management resources:**](#stress-management-resources) Techniques and tools to manage stress and improve overall well-being, such as journaling, exercise, and mindfulness practices
+10. [**Productivity Tools**](#productivity-tools): tools that can help optimize work, or increase productivity.
+14. [**Stress Management resources:**](#stress-management-resources) Techniques and tools to manage stress and improve overall well-being, such as journaling, exercise, and mindfulness practices.
 
 ---
 
 ## Time Management Tools
 
-- Calendars: 
-  - Google Calendar (https://calendar.google.com/)
-  - Outlook Calendar (https://outlook.com/calendar)
-  - iCal (https://www.apple.com/ical/)
+- Research project management tools
+  - Trello (https://trello.com/) :star:
+  - Asana (https://asana.com/) :star:
+  - Basecamp (https://basecamp.com/)
+  - Monday.com (https://monday.com/)
+  - Airtable (https://airtable.com/)
+  - Jira (https://www.atlassian.com/software/jira)
+  - Redmine (https://www.redmine.org/)
+  - ClickUp (https://clickup.com/)
+  - Notion (https://www.notion.so/) :star:
 - To-do lists:
   - Todoist (https://todoist.com/)
-  - Wunderlist (https://www.wunderlist.com/)
-  - Any.do (https://www.any.do/)
+  - Wunderlist (https://www.wunderlist.com/) :star:
+  - Any.do (https://www.any.do/) :star:
 - Time-tracking software:
   - Toggl (https://toggl.com/)
   - RescueTime (https://www.rescuetime.com/)
@@ -77,6 +83,22 @@ N.B.: Services marked with a :star: next to their names are services we use prod
   - Paperpile (https://paperpile.com/)
   - GroupZap (https://groupzap.com/)
   - Overleaf (https://www.overleaf.com/) :star:
+- Writing Companions:
+  - Grammarly (https://www.grammarly.com/)
+  - Hemingway (https://www.hemingwayapp.com/) :star:
+  - ProWritingAid (https://prowritingaid.com/)
+  - Scrivener (https://www.literatureandlatte.com/scrivener)
+  - LaTeX (https://www.latex-project.org/) (we recommend the TexWorks package for offline/desktop TeX formatting)
+  - Overleaf (https://www.overleaf.com/) :star:
+- Research Paper Submission Tools:
+  - EasyChair (https://easychair.org/)
+  - Scholastica (https://www.scholasticahq.com/)
+  - Editorial Manager (https://www.editorialmanager.com/)
+  - ScholarOne (https://mc.manuscriptcentral.com/)
+  - OJS (Open Journal Systems) (https://pkp.sfu.ca/ojs/)
+  - JATS4R (JATS for Reuse) (https://jats4r.org/)
+  - HAL (Hyper Articles en Ligne) (https://hal.archives-ouvertes.fr/)
+
 
 ## Data Management Tools
 
@@ -115,8 +137,10 @@ N.B.: Services marked with a :star: next to their names are services we use prod
   - World Bank Climate Data (https://climateknowledgeportal.worldbank.org/)
   - Environmental Data Explorer (https://edx.isciii.es/)
   - NASA Earth Data (https://earthdata.nasa.gov/)
- - Refugee/ Forced Displacement:
+ - Survey/ Microdata:
   - UNHCR Microdata Library (https://microdata.unhcr.org) :star:
+  - World Bank Microdata Library (https://microdata.worldbank.org) :star:
+  - Harvard Dataverse (https://dataverse.harvard.edu/)
 
 ## Communication tools
 - Instant messaging:
@@ -183,34 +207,27 @@ It's important to be aware of the security and privacy implications when automat
   - Evernote (https://evernote.com/)
   - OneNote (https://www.onenote.com/)
   - Bear (https://www.bear-writer.com/)
-- Writing and Text Editing:
-  - Microsoft Word (https://office.com/word)
-  - Google Docs (https://docs.google.com/)
-  - LaTeX (https://www.latex-project.org/)
-  
- ### File compression and archiving tools
-- WinRAR (https://www.win-rar.com/)
-- 7-Zip (https://www.7-zip.org/)
-- WinZip (https://www.winzip.com/)
-- PeaZip (https://www.peazip.org/)
-- The Unarchiver (https://theunarchiver.com/)
+-File compression and archiving tools
+  - WinRAR (https://www.win-rar.com/)
+  - 7-Zip (https://www.7-zip.org/)
+  - WinZip (https://www.winzip.com/)
+  - PeaZip (https://www.peazip.org/)
+  - The Unarchiver (https://theunarchiver.com/)
+- File conversion tools
+  - Adobe Acrobat (https://acrobat.adobe.com/)
+  - CloudConvert (https://cloudconvert.com/)
+  - Online Convert (https://online-convert.com/)
+  - FileZigZag (https://www.filezigzag.com/)
+  - FreeFileConvert (https://www.freefileconvert.com/)
+  - TinyPDF (https://www.tinypdf.com) :star:
+-File encryption tools
+  - VeraCrypt (https://veracrypt.codeplex.com/)
+  - AxCrypt (https://www.axcrypt.net/)
+  - TrueCrypt (https://www.truecrypt.org/)
+  - 7-Zip (https://www.7-zip.org/)
+  - Encrypto (https://macpaw.com/encrypto)
 
-### File conversion tools
-- Adobe Acrobat (https://acrobat.adobe.com/)
-- CloudConvert (https://cloudconvert.com/)
-- Online Convert (https://online-convert.com/)
-- FileZigZag (https://www.filezigzag.com/)
-- FreeFileConvert (https://www.freefileconvert.com/)
-- TinyPDF (https://www.tinypdf.com) :star:
-
-### File encryption tools
-- VeraCrypt (https://veracrypt.codeplex.com/)
-- AxCrypt (https://www.axcrypt.net/)
-- TrueCrypt (https://www.truecrypt.org/)
-- 7-Zip (https://www.7-zip.org/)
-- Encrypto (https://macpaw.com/encrypto)
-
-### Stress Management resources
+## Stress Management resources
 - Relaxation and meditation:
   - Headspace (https://www.headspace.com/)
   - Calm (https://www.calm.com/)
